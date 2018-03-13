@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "206824209722",
+    "firebase_url": "https://chatapp-bdd74.firebaseio.com",
+    "project_id": "chatapp-bdd74",
+    "storage_bucket": "chatapp-bdd74.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:206824209722:android:05a73d1ebc00991a",
+        "android_client_info": {
+          "package_name": "com.example.kishoreprabhu.chatapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "206824209722-bp2qql69mjf5vrkcgu47ugvrub0gjffn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDGzEZBoVXKY9_3bMPZXAWKb1hFVow-L-4"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
